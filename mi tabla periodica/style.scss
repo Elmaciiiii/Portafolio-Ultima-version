@@ -1,0 +1,204 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    background-color: #566573;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parte1{
+    display: flex;
+    margin-top: 0px;
+    li{
+        width: 30.5px;
+        height: 30.5px;
+    }
+}
+
+.dos1{
+    position: absolute ;
+    margin-left: 820.5px;
+}
+.dos{
+    position: absolute ;
+    margin-left: 469px;
+}
+
+.tres{
+    position: absolute;
+    margin-left: 520px;
+}
+
+.cuatro{
+    position: absolute;
+    margin-left: 570.5px;
+}
+
+.cinco{
+    position: absolute;
+    margin-left: 620.5px;    
+}
+.seis{
+    position: absolute;
+    margin-left: 670.5px;
+}
+.siete{
+    position: absolute;
+    margin-left: 720px;
+}
+.ocho{
+    position: absolute;
+    margin-left: 770px;
+}
+.nueve{
+    position: absolute;
+    margin-left: 850px;
+}
+main{
+    margin-left: 50px;
+}
+
+.diez{
+    position: absolute;
+    margin-left: 640px;
+}
+.once{
+    position: absolute;
+    margin-left: 690px;
+}
+.doce{
+    position: absolute;
+    margin-left: 740px;
+}
+.trece{
+    position: absolute;
+    margin-left: 790px;
+}
+.catorce{
+    position: absolute;
+    margin-left: 840px;
+}
+table{
+    
+    border-collapse: collapse;
+}
+
+.piel{
+    align-items: center;
+    padding: 10px;
+    
+    background: rgb(243, 241, 140);        
+    border: 1px solid black;
+}
+
+.rosaBlanco{
+    align-items: center;
+    padding: 10px;
+    
+    background: rgb(243, 140, 188);        
+    
+}
+
+.gris{
+    align-items: center;
+    padding: 10px;
+    
+    background: rgb(95, 100, 100);        
+    border: 1px solid #000; 
+}
+
+.celesteBlanco{
+    align-items: center;
+    padding: 10px;
+    
+    background: rgb(25, 243, 214);        
+    border: 1px solid #000; 
+}
+
+.blanco{
+    align-items: center;
+    padding: 10px;
+    
+    background: rgb(169, 226, 243);        
+    border: 1px solid #000; 
+
+}
+
+.verdeBlanco{
+    
+    align-items: center;
+    padding: 10px;
+    
+    background: rgb(103, 250, 115);        
+    border: 1px solid #000; 
+
+
+}
+
+.verde{
+    
+    align-items: center;
+    padding: 10px;
+    
+    background: rgb(94, 255, 0);        
+    border: 1px solid #000; 
+
+
+}
+
+.amarillo{
+
+    align-items: center;
+    padding: 10px;
+    background: rgb(232, 243, 81);        
+    border: 1px solid #000; 
+}
+
+
+.azul{
+
+    align-items: center;
+    padding: 10px;
+    background: rgb(54, 41, 236);        
+    border: 1px solid #000; 
+}
+
+.amarilloFuerte{
+
+    align-items: center;
+    padding: 10px;
+    background: rgb(251, 255, 2);        
+    border: 1px solid #000; 
+}
+
+.salmon{
+    align-items: center;
+    padding: 10px;
+
+    background: rgb(231, 113, 129);        
+    border: 1px solid #000; 
+}
+
+.rosa{
+    
+    align-items: center;
+    padding: 10px;
+
+    background: rgb(241, 198, 228);        
+    border: 1px solid #000; 
+
+}
+
+.celeste{
+   
+    align-items: center;
+    padding: 10px;
+
+    background: rgb(130, 189, 238);        
+    border: 1px solid #000; 
+}/*# sourceMappingURL=style.css.map */
